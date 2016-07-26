@@ -1,0 +1,10 @@
+"*":
+  core:
+    themes: [
+      "atom-material-ui"
+      "monokai"
+    ]
+  "exception-reporting":
+    userId: "e563b96a-e6a7-f8c4-bbac-f058897136ad"
+  welcome:
+    showOnStartup: false
